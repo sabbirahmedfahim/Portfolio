@@ -1,0 +1,22 @@
+.header-container {
+    height: 100vh;
+    background-color: var(--background-color);
+    background-image: url(./images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.nav {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    color: var(--font-primary-color);
+    
+    font-size: 36px;
+}
+
+#right-menu-icon-id{
+    width: 314px;
+    text-align: center;
+}
