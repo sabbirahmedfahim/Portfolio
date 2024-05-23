@@ -4,6 +4,7 @@
     background-image: url(./images/banner/banner1.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain; 
 }
 
 .nav {
@@ -17,6 +18,6 @@
 }
 
 #right-menu-icon-id{
-    width: 314px;
-    text-align: center;
+    width: 175px;
+    text-align: center;  
 }
